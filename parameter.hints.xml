@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="java.build.like.method" value="true" />
+    <option id="java.simple.sequentially.numbered" value="true" />
+    <option id="java.method.name.contains.parameter.name" value="true" />
+    <disabledLanguages>
+      <language id="JAVA" />
+    </disabledLanguages>
+  </component>
+</application>
