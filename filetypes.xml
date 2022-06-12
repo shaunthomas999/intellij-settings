@@ -1,29 +1,29 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="gson" type="Groovy" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="cacerts" type="PLAIN_TEXT" />
+      <mapping pattern="CustomerAlertSimulation" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="AlertSimulation" type="PLAIN_TEXT" />
+      <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="gson" type="Groovy" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="AlertSimulation" type="PLAIN_TEXT" />
-      <mapping pattern="CustomerAlertSimulation" type="PLAIN_TEXT" />
-      <mapping pattern="cacerts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
