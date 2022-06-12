@@ -1,0 +1,15 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array />
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//ingeurcdaas01@dev.azure.com/ingeurcdaas01/ingone/_git/p05948-parties-europort-bridge" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>

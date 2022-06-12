@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>!*Steps.java</mask>
+    <mask>!*Test.java,!*.log</mask>
+    <mask>*.yaml,*.yml</mask>
+    <mask>!*.log*</mask>
+    <mask>!*.js,</mask>
+    <mask>!*.log.*,*app*</mask>
+    <mask>!*.log.*,app.*</mask>
+    <mask>!*.log.*,!*.log</mask>
+    <mask>!*.log.*,!*.log,!*Test.java</mask>
+    <mask>!*.log.*,!*app*,!*.mustache</mask>
+    <mask>*.java,!*Test.java</mask>
+    <mask>!*.txt</mask>
+    <mask>*.java, !*Test.java</mask>
+    <mask>!*.log.*,!*app*</mask>
+    <mask>*Test.java</mask>
+    <mask>!*.log.*,!*app*,!*.html</mask>
+    <mask>!*.log.*,!*app*,!*.html,!*.md</mask>
+    <mask>!*.java</mask>
+    <mask>*.yml</mask>
+    <mask>!*.log.*,!*app*,!*.html,!*.md,!*.json,!*.groovy,!*.xml</mask>
+    <mask>pom.xml</mask>
+    <mask>!*.java, !*.log</mask>
+    <mask>!*Test.java</mask>
+    <mask>*.yaml</mask>
+    <mask>*.xml</mask>
+    <mask>!*.log</mask>
+    <mask>*.java</mask>
+    <mask>*.md</mask>
+  </component>
+</application>
