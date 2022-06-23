@@ -2,12 +2,14 @@
   <component name="Azure Toolkit for IntelliJ">
     <option name="properties">
       <map>
-        <entry key="azure_environment" value="AzureCloud" />
+        <entry key="account.auth_method_detail" value="" />
+        <entry key="account.azure_environment" value="AzureCloud" />
+        <entry key="account.subscriptions_json" value="" />
         <entry key="function_core_tools_path" />
         <entry key="password_save_type" />
-        <entry key="telemetry_allow_telemetry" value="true" />
+        <entry key="telemetry.telemetry_allow_telemetry" value="true" />
+        <entry key="telemetry.telemetry_plugin_version" value="3.65.2-2022.1" />
         <entry key="telemetry_installation_id" value="c046d5098dbd14e1061f7852cb5a695a29c2f8cb4a30e02364882bc56648b3c8" />
-        <entry key="telemetry_plugin_version" value="3.56.0-2021.1" />
       </map>
     </option>
   </component>
