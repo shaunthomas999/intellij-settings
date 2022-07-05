@@ -1,0 +1,7 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="animationsEnabled" value="false" />
+    <option name="fitContentAfterLayout" value="false" />
+    <option name="myIsAnimationsEnabled" value="false" />
+  </component>
+</application>
